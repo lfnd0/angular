@@ -38,3 +38,7 @@
 - Documentação extensa;
 - Testes;
 - Compatibilidade com computadores e também dispositivos móveis.
+
+
+### Conhecendo a documentação
+Link para a [documentação](https://angular.io/docs) do Angular e para o [blog](https://vidafullstack.com.br/angular-blog/) do curso.
