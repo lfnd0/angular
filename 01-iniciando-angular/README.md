@@ -42,3 +42,11 @@
 
 ### Conhecendo a documentação
 Link para a [documentação](https://angular.io/docs) do Angular e para o [blog](https://vidafullstack.com.br/angular-blog/) do curso.
+
+
+### Versionamento
+- A partir do Angular 2, o framework começou a usar o *semantic version*:
+  - Patch: correções de bugs (1.1.**2**);
+  - Minor: para novas adições de funcionalidades (1.**1**.2);
+  - Major: destinado a grandes mudanças, que podem "quebrar" versões anteriores (**1**.1.2).
+- A cada 6 meses é esperado um grande lançamento.
