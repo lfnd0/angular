@@ -14,3 +14,20 @@
 - [Node.js](https://github.com/nvm-sh/nvm#long-term-support)
 - [Angular CLI (localmente)](https://medium.com/@starikovs/how-to-use-angular-cli-locally-729dbb6707dd)
 - [Angular CLI](https://angular.io/cli)
+
+
+### Angular CLI
+
+#### Comandos iniciais do Angular CLI:
+- Novo projeto:
+  ```shell
+  npx -p @angular/cli ng new nome-do-projeto
+  ```
+- Helper:
+  ```shell
+  npx ng --help
+  ```
+- Start:
+  ```
+  npx ng serve
+  ```
