@@ -15,3 +15,4 @@
 
 ### Seção 1
 - [Iniciando com Angular](01-iniciando-angular)
+- [Instalação do Angular](02-instalacao)

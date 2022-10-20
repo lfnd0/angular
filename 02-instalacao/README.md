@@ -32,6 +32,7 @@
   npx ng serve
   ```
 
+
 ### Arquitetura/estrutura
 ```
 .
@@ -66,3 +67,16 @@
 ├── tsconfig.json (Configurações do TypeScript)
 └── tsconfig.spec.json (Responsável pela configuração dos testes)
 ```
+
+
+### Build
+
+#### Comandos utilizados para o build da aplicação:
+- Gerar o build:
+  ```shell
+  npx ng build
+  ```
+- Executar o build:
+  ```shell
+  npm run watch
+  ```
