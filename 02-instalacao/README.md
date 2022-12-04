@@ -31,6 +31,10 @@
   ```
   npx ng serve
   ```
+- Gerar um componente:
+  ```shell
+  npx ng g component [nome]
+  ```
 
 
 ### Arquitetura/estrutura
